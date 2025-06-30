@@ -1,5 +1,7 @@
 # user-app
 
+NODE v18.20.4
+
 ## Project setup
 ```
 npm install
