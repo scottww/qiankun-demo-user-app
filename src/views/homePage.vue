@@ -1,5 +1,7 @@
 <template>
-  <div class="homePage">user app home page.</div>
+  <div class="homePage">
+    <h2>user app home page.</h2>
+  </div>
 </template>
 
 <script>

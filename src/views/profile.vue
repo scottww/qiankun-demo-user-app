@@ -1,5 +1,7 @@
 <template>
-  <div class="profile">user app profile page.</div>
+  <div class="profile">
+    <h2>user app profile page.</h2>
+  </div>
 </template>
 
 <script>
