@@ -9,7 +9,7 @@ function render(props = {}) {
   instance = new Vue({
     router,
     render: h => h(App),
-  }).$mount(container ? container.querySelector('#subapp-viewport') : '#app');
+  }).$mount(container ? container.querySelector('#subapp-viewport') : '#subapp-viewport');
 }
 
 // qiankun 必须导出三个生命周期函数
